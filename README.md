@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+       
+        
+        
+ 
+ <!-- Button - Gmail -->
+<a href="mailto:vittoriatorres.torres@gmail.com">
+<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vittoriatorres.torres@gmail.com">
+</a>
 
-<!--
-**vittoriatorres/vittoriatorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Button - LinkedIn -->
+<a href="https://www.linkedin.com/in/vittoria-torres-374b43193/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
